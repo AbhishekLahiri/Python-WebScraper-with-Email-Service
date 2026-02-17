@@ -1,4 +1,4 @@
-# Python Web Scraper with Email Service
+# Automated Python Web Scraper with Email Service
 
 A simple Python web scraper with built-in email notification capabilities.
 
